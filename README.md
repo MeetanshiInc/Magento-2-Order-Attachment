@@ -10,18 +10,18 @@ Attaching order documents with the corresponding orders makes it easy for the ad
 
 * Option to mention the path to save all the attachments by customers and admin
 * The admin has to enter the comma-separated values for the allowed file types like:
- * jpg
- * jpeg
- * png
- * zip
- * rar
- * docx
- * doc
- * pdf
- * bmp
- * gif
- * xls
- * xlsx
+	* jpg
+	* jpeg
+	* png
+	* zip
+	* rar
+	* docx
+	* doc
+	* pdf
+	* bmp
+	* gif
+	* xls
+	* xlsx
 * The admin can limit the maximum file size of attachments to be uploaded by customers.
 * Restrict attachments based on customer groups.
 * Customers can delete the attachment files that are uploaded by them.
